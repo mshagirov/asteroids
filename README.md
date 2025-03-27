@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python3 -m pygame
 ```
 
-the output will indicate that the pygame is installed and an error ` No module named pygame.__main__` (this is fine).
+the output will indicate that the pygame is installed together with an error ` No module named pygame.__main__` (this is fine).
 
 ## Starting the Game
 
