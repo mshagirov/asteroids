@@ -17,6 +17,8 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
+To deactivate the environment enter `deactivate`, and to re-activate it use `source venv/bin/activate` again.
+
 2. Install `pygame`:
 
 ```bash
@@ -38,4 +40,3 @@ To start the game, run:
 ```bash
 python3 main.py
 ```
-
